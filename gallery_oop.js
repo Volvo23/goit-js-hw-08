@@ -86,7 +86,6 @@ function onOpenModal(event) {
 function onCloseModal() {
     modalRef.classList.remove('is-open')
     imageModalRef.src = ""
-    
 }
 
 function onPressKey(event) {
